@@ -1,0 +1,9 @@
+[
+    {
+        "id": "happy-path",
+        "routes": [
+            "partner1:success",
+            "partner2:success"
+        ]
+    }
+]

@@ -1,0 +1,26 @@
+{
+    "modules": [
+        "/characters/bard.js",
+        "/characters/witcher.js",
+        "/characters/sorcerer.js",
+        "/characters/wizard.js"
+    ],
+    "characters": [
+        {
+            "type": "wizard",
+            "name": "Stregobor"
+        },
+        {
+            "type": "witcher",
+            "name": "Gerald"
+        },
+        {
+            "type": "sorcerer",
+            "name": "Yennefer"
+        },
+        {
+            "type": "bard",
+            "name": "Jaskier"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "modules": [
+        "/plugins/partner1.js",
+        "/plugins/partner2.js"
+    ],
+    "externals": [
+        {
+            "type": "partner1"
+        },
+        {
+            "type": "partner2"
+        }
+    ]
+}
